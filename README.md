@@ -6,7 +6,7 @@ Note:
 * untuk yang pake MIUI/XIAOMI, apabila apk bermasalah, matikan MIUI OPTIMIZATION
 * apk 32bit untuk device spek rendah
 
-# LINK APK
+ LINK APK
 * https://s.id/FF64BITV199 (64bit)
 * https://s.id/FF32BITV199 (32bit)
 
